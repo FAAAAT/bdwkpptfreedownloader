@@ -293,3 +293,7 @@ async function  download() {
     z.makeZip();
 }
 
+console.log("使用方法：请先完整浏览一次你要下载的文档（不看一遍的话会下载不到）然后复制一下代码片段并运行");
+console.log("await download();");
+
+
